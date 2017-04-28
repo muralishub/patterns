@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29f052a6-45e0-48b8-a974-834b77641816" name="Default" comment="" />
+    <list default="true" id="29f052a6-45e0-48b8-a974-834b77641816" name="Default" comment="type&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concepts/AlgebricDataTypes.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/StringDecoder.scala" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,24 +21,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TypeClass.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TypeClass.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/typeClass/TypeClass.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="26" column="59" lean-forward="true" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+            <state relative-caret-position="529">
+              <caret line="23" column="62" lean-forward="true" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringDecoder.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringDecoder.scala">
+      <file leaf-file-name="AlgebricDataTypes.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/concepts/AlgebricDataTypes.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="36" selection-end-column="3" />
-              <folding>
-                <marker date="1493386354509" expanded="true" signature="53:116" ph="{...}" />
-              </folding>
+            <state relative-caret-position="322">
+              <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,6 +61,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -85,6 +89,7 @@
         <option value="$PROJECT_DIR$/src/typeClass/TypeClass.scala" />
         <option value="$PROJECT_DIR$/src/typeClass/StringDecoder.java" />
         <option value="$PROJECT_DIR$/src/typeClass/StringDecoder.scala" />
+        <option value="$PROJECT_DIR$/src/concepts/AlgebricDataTypes.scala" />
       </list>
     </option>
   </component>
@@ -136,24 +141,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typeClass" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -753,7 +740,14 @@
       <option name="project" value="LOCAL" />
       <updated>1493388520004</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="type&#10;">
+      <created>1493388850821</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1493388850821</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -796,7 +790,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="type classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="type classes" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/muralishub/patterns&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.&#10;" />
+    <MESSAGE value="type&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="type&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -831,16 +827,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringDecoder.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="36" selection-end-column="3" />
-          <folding>
-            <marker date="1493386354509" expanded="true" signature="53:116" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/typeClass/StringDecoder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -857,10 +843,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringDecoder.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/typeClass/TypeClass.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" column="59" lean-forward="true" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+        <state relative-caret-position="529">
+          <caret line="23" column="62" lean-forward="true" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concepts/AlgebricDataTypes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
           <folding />
         </state>
       </provider>
