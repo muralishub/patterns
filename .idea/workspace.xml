@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29f052a6-45e0-48b8-a974-834b77641816" name="Default" comment="algebric data types&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Pattern1.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/monads/Monad.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/monads/Order.scala" />
+    <list default="true" id="29f052a6-45e0-48b8-a974-834b77641816" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -44,8 +41,8 @@
       <file leaf-file-name="Order.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/monads/Order.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            <state relative-caret-position="690">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -844,7 +841,14 @@
       <option name="project" value="LOCAL" />
       <updated>1493394937911</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="monads&#10;">
+      <created>1494597069505</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1494597069505</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -890,7 +894,8 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/muralishub/patterns&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.&#10;" />
     <MESSAGE value="type&#10;" />
     <MESSAGE value="algebric data types&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="algebric data types&#10;" />
+    <MESSAGE value="monads&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="monads&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1122,8 +1127,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/monads/Order.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        <state relative-caret-position="690">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
