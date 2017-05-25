@@ -5,11 +5,12 @@ package monads
 import scala.concurrent.Future
 
 
+
 // load the order for a given customer , get the item in question, make the purchase of the item and log the result
 
 
 object main extends App {
-
+import scala.concurrent.ExecutionContext.Implicits.global
   val result =
     for {
       loadedOrder    <- OrderService.loadOrder("customerUsername")
